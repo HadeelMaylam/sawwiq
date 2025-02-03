@@ -27,7 +27,6 @@ GOOGLE_API_KEY = st.secrets["GOOGLE_API_KEY"]
 GOOGLE_CSE_ID = st.secrets["GOOGLE_CSE_ID"]
 
 
-openai.api_key = OPENAI_API_KEY
 anthropic_client = anthropic.Anthropic(api_key=ANTHROPIC_API_KEY)
 google_search = GoogleSearchAPIWrapper(
     google_api_key=GOOGLE_API_KEY,
