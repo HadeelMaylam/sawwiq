@@ -5,3 +5,7 @@ python-dotenv
 aiohttp
 beautifulsoup4
 langchain_community
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
