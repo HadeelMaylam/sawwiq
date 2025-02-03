@@ -1,0 +1,7 @@
+streamlit
+requests
+anthropic
+python-dotenv
+aiohttp
+beautifulsoup4
+langchain_community
